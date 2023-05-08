@@ -70,7 +70,7 @@ We have 3 difficulty levels: easy, medium, and difficult.''')
     if play_again():
         return main()
     else:
-        print('See you soon 🙏')
+        print('See you soon 🙏🙏')
 
 
 if __name__ == '__main__':
